@@ -45,6 +45,7 @@ meraki_log_collector/
 *   **Smart Caching**: Optimized API usage with configurable short and long-term caching to prevent rate-limiting.
 *   **Built-in Diagnostics**: View application logs, system configurations, and caching rules directly from UI modal dialogs.
 
+![screenshot](screenshot.png)
 ---
 
 ## 🚀 Getting Started
