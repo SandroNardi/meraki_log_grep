@@ -1,0 +1,28 @@
+[theme]
+# Global defaults
+primaryColor = "#144a90"
+font = "sans serif"
+
+[theme.light]
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F0F2F6"
+textColor = "#31333F"
+
+[theme.light.sidebar]
+backgroundColor = "#F8F9FA"
+textColor = "#31333F"
+
+[theme.dark]
+backgroundColor = "#0E1117"
+secondaryBackgroundColor = "#1C2B3E"
+textColor = "#FFFFFF"
+
+[theme.dark.sidebar]
+backgroundColor = "#07172B"
+textColor = "#FFFFFF"
+
+[browser]
+gatherUsageStats = false
+
+[server]
+headless = true

@@ -1,0 +1,5 @@
+meraki
+streamlit
+pandas
+plotly
+rich
